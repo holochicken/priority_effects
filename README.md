@@ -4,7 +4,7 @@ Colonisation dynamics and physiological effects of Campylobacter spp.
 ## Repository structure
 data:
 - kpi: performance and experimental design data
-- mags: metagenomics data
+- mags: metagenomics
 - metatranscriptomics
 - transcriptomics
 
