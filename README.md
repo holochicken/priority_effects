@@ -1,5 +1,9 @@
 # Priority effects and microbial cross-feeding shape zoonotic agent spread in broiler chickens
+
+[![DOI](https://zenodo.org/badge/703405716.svg)](https://zenodo.org/badge/latestdoi/703405716)
+
 Colonisation dynamics and physiological effects of Campylobacter spp.
+
 
 ## Repository structure
 data:
